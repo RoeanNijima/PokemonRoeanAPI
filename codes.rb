@@ -3,7 +3,7 @@
     "pokemon" => ["PIKACHU,5,1"],
     "items" => ["POKEBALL,10", "POTION,5"]
   },
-  "testcode1" => {
+  "freemag" => {
     "pokemon" => ["MAGNEMITE,25,0"],
     "items" => ["MASTERBALL,1"]
   }
