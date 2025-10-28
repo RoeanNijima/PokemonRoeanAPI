@@ -7,5 +7,8 @@
   },
   "spooky" => {
     "pokemon" => ["GASTLY,5,1,Spooky"]
+  },
+  "svnymble" => {
+    "pokemon" => ["NYMBLE,5,1,Nimby"]
   }
 }
