@@ -10,5 +10,8 @@
   },
   "svnymble" => {
     "pokemon" => ["NYMBLE,5,1,Nimby"]
-  }
+  },
+  "markspackage" => {
+    "items" => ["AURORATICKET,1"]
+  },
 }
